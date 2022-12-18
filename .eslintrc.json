@@ -37,7 +37,6 @@
 		"prefer-const": "error",
 		"quotes": "error",
 		"semi": "error",
-		"sort-imports": "warn",
 		"space-before-blocks": "error",
 		"space-before-function-paren": [
 			"error",
